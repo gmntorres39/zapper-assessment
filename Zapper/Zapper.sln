@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zapper", "Zapper\Zapper.csproj", "{AD37CBB9-0110-44CE-AC23-761AE3705DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zapper.Database", "Zapper.Database\Zapper.Database.csproj", "{CF557235-C4FF-4558-A6A5-6F034979A1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD37CBB9-0110-44CE-AC23-761AE3705DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD37CBB9-0110-44CE-AC23-761AE3705DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD37CBB9-0110-44CE-AC23-761AE3705DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD37CBB9-0110-44CE-AC23-761AE3705DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF557235-C4FF-4558-A6A5-6F034979A1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF557235-C4FF-4558-A6A5-6F034979A1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF557235-C4FF-4558-A6A5-6F034979A1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF557235-C4FF-4558-A6A5-6F034979A1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DCB63B-54C4-47D7-8E81-30715F3B2812}
+	EndGlobalSection
+EndGlobal
